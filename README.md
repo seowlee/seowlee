@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=highcontrast)
 <!--
 **seowlee/seowlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
