@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seowlee&show_icons=true&theme=highcontrast)   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={tegfsl})](https://solved.ac/{tegfsl})       
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={tegfsl})](https://solved.ac/{tegfsl})      
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seowlee&layout=compact&theme=highcontrast)
 <!--
 **seowlee/seowlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
