@@ -1,12 +1,13 @@
-<div align="center">
-<h1> LEE SEOWOO </h1>
-<h3> Hi there👋  </h3> 
-<h3> 😊😴🫶👩🏻‍💻👗🍀🌻🌙🥞🥛🎻💻💛 </h3>
-<h1></h1>  
+<h2 align="left">
+ <abc>
+  <br>Hi there! I'm SEOWOO <img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" width="50"><br>
+ </abc>
+</h2> 
+<!-- <h3> 😊😴🫶👩🏻‍💻👗🍀🌻🌙🥞🥛🎻💻💛 </h3> -->  
 <br/ >  
 <h3> 💻 Tech Stack 💻</h3>
 <h4> Techs that I've used at least once</h4>
-
+<!-- 
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54"/></a>&nbsp 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=JavaScript&logoColor=%23F7DF1E"/></a>&nbsp 
@@ -29,12 +30,12 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/></a>&nbsp <br> 
   <br/>
   <img src="https://img.shields.io/badge/LeetCode-000000?style=fflat-square&logo=LeetCode&logoColor=#d16c06"/></a>&nbsp <br> 
-  <br/>
+  <br/> --> 
 <!--   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br> -->
 </p>
-
+ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tegfsl)](https://solved.ac/tegfsl)<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seowlee&show_icons=true&theme=highcontrast) 
