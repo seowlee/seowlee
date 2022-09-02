@@ -42,8 +42,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tegfsl)](https://solved.ac/tegfsl)<br/>
 
 ### GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seowlee&show_icons=true&theme=highcontrast&cache_seconds=7200) 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seowlee&layout=compact&theme=highcontrast) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seowlee&show_icons=true&theme=highcontrast&cache_seconds=7200) <br>
+### Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seowlee&layout=compact&theme=highcontrast&cache_seconds=7200)
   
 </div>  
 <!--
