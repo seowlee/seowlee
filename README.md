@@ -43,8 +43,8 @@
 
 ### GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seowlee&show_icons=true&theme=highcontrast&cache_seconds=7200) <br>
-### Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seowlee&layout=compact&theme=highcontrast&cache_seconds=7200)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seowlee&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>  
 <!--
