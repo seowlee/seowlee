@@ -33,18 +33,16 @@
   <br/>
   <img src="https://img.shields.io/badge/LeetCode-000000?style=fflat-square&logo=LeetCode&logoColor=#d16c06"/></a>&nbsp <br> 
   <br/> --> 
-<!--   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br> -->
+
 </p>
 
 ### Solved.ac Profile 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tegfsl)](https://solved.ac/tegfsl)<br/>
-
+<!--
 ### GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seowlee&show_icons=true&theme=highcontrast&cache_seconds=7200) <br>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seowlee&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seowlee&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>  
 <!--
